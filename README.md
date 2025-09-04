@@ -1,4 +1,4 @@
-![Header]([https://i.imgur.com/ZcLLrkY.png](https://skillicons.dev/?utm_source=chatgpt.com)) <!-- Replace with your own banner image -->
+![Header](https://i.imgur.com/ZcLLrkY.png](https://skillicons.dev/?utm_source=chatgpt.com) <!-- Replace with your own banner image -->
 
 # Hi, It's Spook! 👋
 
